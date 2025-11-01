@@ -1,7 +1,7 @@
 # HW2 – Estimating Pi using Monte Carlo Method with Pthreads
 
 **Prepared & Supported by:** Sina Hakimzadeh <br>
-**Due Date:** November 10, 2025
+**Due Date:** November 12, 2025
 
 
 ## Overview
